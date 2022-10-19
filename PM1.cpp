@@ -8,6 +8,9 @@ int main()
     std::cout << "Hello GitHub!\n";
 
     std::cout << "Hello NewBranch!\n";
+
+    std::cout << "Hello MasterBranch!\n";
+
 }
 
 
